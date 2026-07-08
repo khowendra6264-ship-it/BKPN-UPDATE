@@ -1,8 +1,8 @@
 {
   "versionCode": 1,
-  "versionName": "1.0.0",
+  "versionName": "1.0.1",
   "forceUpdate": false,
-  "downloadUrl": "https://github.com/khowendra6264-ship-it/BKPN-UPDATE/releases/download/v1.0.0/app-production-release.apk",
+  "downloadUrl": "https://github.com/khowendra6264-ship-it/BKPN-UPDATE/releases/download/1.0.1/BKPN.Earning.apk",
   "changeLog": [
     "First Release",
     "Wallet",
@@ -10,6 +10,7 @@
     "Login",
     "Registration",
     "Withdraw",
-    "Bug Fixed"
+    "Bug Fixed",
+    "Add Member Fixed"
   ]
 }
